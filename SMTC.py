@@ -1,4 +1,4 @@
-"""SMTC.py is a CLI program to get global SMTC info for Windows 10 with WinRT.
+"""SMTC.py is a tool to access and operate SMTC data with WinRT on Windows 10.
 
 Returns:
     A JSON data.
